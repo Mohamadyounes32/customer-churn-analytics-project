@@ -39,8 +39,6 @@ customer-churn-analytics-project/
 ├── dashboard/
 │   └── Customer_Churn_Dashboard.pbix
 │
-├── images/
-│   └── dashboard_preview.png
 │
 ├── README.md
 └── requirements.txt
